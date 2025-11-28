@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Welcome to Ox1deSec
 
-<!--
-**Ox1deSec/Ox1deSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ox1deSec** · Physical Security Assessments · Red Team Operations · Network Pen Testing  
+*“Proof‑of‑concept exploits, proof‑of‑upgrade results.”*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+- Focused on **physical penetration testing**: locks, badges, social engineering, and covert entry.
+- Experienced in **network penetration testing**: wireless reconnaissance, misconfigurations, and red team ops.
+- Building hands‑on expertise through labs, CTFs, and real‑world security engagements.
+- Actively preparing for **CompTIA Security+** and expanding into SOC analyst roles.
+
+---
+
+## 🧩 Current Projects
+- **Physical‑Pentest‑Toolkit**: Notes and methodologies for physical security bypass.
+- **Network‑Pentest‑Basics**: Lab setups and common misconfigurations.
+- **CTF‑Writeups‑Ox1deSec**: Capture the Flag solutions and lessons learned.
+- **VeilGroup Organization**: Company repos, methodology, and case studies.
+
+---
+
+## 📫 Contact
+- ProtonMail: **ox1desec@protonmail.com**
+- GitHub: [Ox1deSec](https://github.com/Ox1deSec)
+- LinkedIn: *(add your link here)*
+
+---
+
+## ⚡ Identity
+![Ox1deSec Logo](link-to-your-logo-file)
+
+---
+
+> *Hidden layers, exposed flaws.*
