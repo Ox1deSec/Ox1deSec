@@ -3,6 +3,10 @@
 Physical Security Assessments · Red Team Operations · Network Pen Testing  
 *“Proof‑of‑concept exploits, proof‑of‑upgrade results.”*
 
+![Pen Testing](https://img.shields.io/badge/Focus-Penetration%20Testing-red)
+![Security Research](https://img.shields.io/badge/Research-Security%20Labs-blue)
+![Resilience](https://img.shields.io/badge/Resilience-Digital%20&%20Physical-green)
+
 ---
 
 ## 🔐 About Me
