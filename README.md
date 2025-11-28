@@ -29,7 +29,7 @@
 ---
 
 ## ⚡ Identity
-![Ox1deSec Logo]https://github.com/Ox1deSec/Ox1deSec/blob/main/IMG_5225.PNG
+![Ox1deSec Logo](https://github.com/Ox1deSec/Ox1deSec/blob/main/IMG_5225.PNG)
 
 ---
 
