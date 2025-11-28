@@ -26,6 +26,8 @@
 - GitHub: [Ox1deSec](https://github.com/Ox1deSec)
 - LinkedIn: *(add your link here)*
 
+- Veil Group International: https://veilgroup.org
+- VGI GitHub: https://github.com/Veil-Group-International
 ---
 
 ## ⚡ Identity
