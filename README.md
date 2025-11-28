@@ -26,8 +26,12 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 - GitHub: [Ox1deSec](https://github.com/Ox1deSec)
 - LinkedIn: *(add your link here)*
 
+---
+
+## 🛡️ Company
 - Veil Group International: https://veilgroup.org
-- VGI GitHub: https://github.com/Veil-Group-International
+- Veil GitHub: https://github.com/Veil-Group-International
+- E-Mail: intake@veilgroup.org
 ---
 
 ## ⚡ Identity
