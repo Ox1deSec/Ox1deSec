@@ -25,6 +25,13 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 
 ---
 
+## 📂 Repositories
+- [Physical-Pentest-Toolkit](https://github.com/Ox1deSec/Physical-Pentest-Toolkit)
+- [Network-Pentest-Basics](https://github.com/Ox1deSec/Network-Pentest-Basics)
+- [CTF-Writeups-Ox1deSec](https://github.com/Ox1deSec/CTF-Writeups-Ox1deSec)
+
+---
+
 ## 📫 Contact
 - ProtonMail: **ox1desec@protonmail.com**
 - GitHub: [Ox1deSec](https://github.com/Ox1deSec)
