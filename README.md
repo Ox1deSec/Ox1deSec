@@ -1,6 +1,6 @@
 # 👋 Welcome to Ox1deSec
 
-**Ox1deSec** · Physical Security Assessments · Red Team Operations · Network Pen Testing  
+Physical Security Assessments · Red Team Operations · Network Pen Testing  
 *“Proof‑of‑concept exploits, proof‑of‑upgrade results.”*
 
 ---
