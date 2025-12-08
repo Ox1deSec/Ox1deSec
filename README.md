@@ -13,16 +13,17 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 - Focused on **physical penetration testing**: locks, badges, social engineering, and covert entry.
 - Gaining experience in **network penetration testing**: wireless reconnaissance, misconfigurations, and red team ops.
 - Building hands‑on expertise through labs, CTFs, and real‑world security engagements.
-- Actively working on **Hack The Box: Certified Penetration Testing Specialist** and **CompTIA Security+**
+- Actively working on:
+ **Hack The Box: Certified Penetration Testing Specialist** and **CompTIA Security+**
 
 ---
 
 ## 🧩 Current Projects
 - **Physical‑Pentest‑Toolkit**: Notes and methodologies for physical security bypass.
 - **Network‑Pentest‑Basics**: Lab setups and common misconfigurations.
-- **CTF‑Writeups‑Ox1deSec**: Capture the Flag solutions and lessons learned.
-- **VeilGroup Organization**: Company repos, methodology, and case studies.
-
+- **CTF Writeups**: Capture the Flag solutions and lessons learned.
+- **Veil Group International**: Company repos, methodology, and case studies.
+- **FiveM Scripts**: QoL and Fire Department specifc scripts to enhance the gameplay experience.
 ---
 
 ## 📂 Repositories
