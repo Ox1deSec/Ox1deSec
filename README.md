@@ -11,9 +11,9 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 
 ## 🔐 About Me
 - Focused on **physical penetration testing**: locks, badges, social engineering, and covert entry.
-- Experienced in **network penetration testing**: wireless reconnaissance, misconfigurations, and red team ops.
+- Gaining experience in **network penetration testing**: wireless reconnaissance, misconfigurations, and red team ops.
 - Building hands‑on expertise through labs, CTFs, and real‑world security engagements.
-- Actively preparing for **CompTIA Security+** and expanding into SOC analyst roles.
+- Actively working on **Hack The Box: Certified Penetration Testing Specialist** and **CompTIA Security+**
 
 ---
 
