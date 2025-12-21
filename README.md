@@ -19,6 +19,7 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 ---
 
 ## 🧩 Current Projects
+- **Oxide Security Operator Framework**: OSOF is a modular, evidence‑driven offensive security framework designed to support disciplined operator workflows and professional reporting.
 - **Physical‑Pentest‑Toolkit**: Notes and methodologies for physical security bypass.
 - **Network‑Pentest‑Basics**: Lab setups and common misconfigurations.
 - **CTF Writeups**: Capture the Flag solutions and lessons learned.
@@ -27,6 +28,7 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 ---
 
 ## 📂 Repositories
+- [Oxide Security Framework](https://github.com/Ox1deSec/OSOF)
 - [Physical-Pentest-Toolkit](https://github.com/Ox1deSec/Physical-Pentest-Toolkit)
 - [Network-Pentest-Basics](https://github.com/Ox1deSec/Network-Pentest-Basics)
 - [CTF-Writeups-Ox1deSec](https://github.com/Ox1deSec/CTF-Writeups-Ox1deSec)
@@ -36,7 +38,7 @@ Physical Security Assessments · Red Team Operations · Network Pen Testing
 ## 📫 Contact
 - ProtonMail: **ox1desec@protonmail.com**
 - GitHub: [Ox1deSec](https://github.com/Ox1deSec)
-- LinkedIn: *(add your link here)*
+- LinkedIn: [Austin Clerget](https://www.linkedin.com/in/austin-clerget/)
 
 ---
 
